@@ -183,7 +183,7 @@ Here are some screenshots illustrating the application's user interface and func
 ![Detailed Classification](./screens/p6.png)
 ![Alternative View](./screens/p7.png)
 
-*(Note: The exact appearance and flow might vary slightly based on updates.)*
+
 
 
 ## Technologies Used
