@@ -97,8 +97,8 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/HelmiDev03/HelmiDev03-Classification-of-Cardiac-Anomalies-from-ECG-Signals.git
-    cd HelmiDev03-Classification-of-Cardiac-Anomalies-from-ECG-Signals/fastapi
+    git clone https://github.com/HelmiDev03/Classification-of-Cardiac-Anomalies-from-ECG-Signals.git
+    cd Classification-of-Cardiac-Anomalies-from-ECG-Signals/fastapi
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -183,7 +183,7 @@ Here are some screenshots illustrating the application's user interface and func
 ![Detailed Classification](./screens/p6.png)
 ![Alternative View](./screens/p7.png)
 
-*(Note: The exact appearance and flow might vary slightly based on updates.)*
+
 
 
 ## Technologies Used
